@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0071/v1
 canonical_location: https://kanripo.org/bkk/KR6o0071/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂菩提心論略記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0071_000.yaml, hash: 'sha256:00706fe6a7bc383a1f7d2fce24502fee42af67cf880a62dc76e02ef6b26d8cee'}
-  - {seq: 1, filename: KR6o0071_001.yaml, hash: 'sha256:4dfb4948a1ccf72b2c9eec26ae4fe88fcf6d995c1e161456b8efac9e0aaa797a'}
+  - {seq: 1, filename: KR6o0071_001.yaml, hash: 'sha256:ba48f108aaf8c4631f50b1f30dcd98b4c4be6975c9899b6065092558951ae209'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0071_000.markers.yaml, hash: 'sha256:eed9d6e423b8999fd2819926066a6e0bb6bfe5697a5469e0f61f74e81808a070'}
-  - {seq: 1, role: markers, filename: assets/KR6o0071_001.markers.yaml, hash: 'sha256:0761510b72db6d80eeb298b72a9631b762249e3dfc8a5444208bd002ef6c93a9'}
+  - {seq: 1, role: markers, filename: assets/KR6o0071_001.markers.yaml, hash: 'sha256:1cab6102a8c3ce41635733c1d63c0bab3fb5153f936f17233dea53bc05e26677'}
 table_of_contents:
 - ref:
     seq: 0
@@ -77,4 +77,7 @@ table_of_contents:
   label: No. 777-C
   type: mulu
   level: 1
-hash: sha256:fe6760c420242721bc280f9c61453ccd5ef3e49765f2319e70462b3fca8878b1
+hash: sha256:c4cae9dec4d9dbf01d6b3c6339a43328ddfbdb4f1716e789cc9840872857677e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
